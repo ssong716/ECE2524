@@ -1,0 +1,5 @@
+Write an assignment assignment
+
+While we are learning about UNIX, we have not really compared the pros and cons of different operating systems. I think this will be a great opportunity to learn the difference between Windows, Mac OS, and Linux. By doing this, students can learn the pros and cons of all the operating systems and if the need arises, get into an intellectual debate about which operating system is the best. 
+
+Write a 3 page paper describing the pros and the cons of each operating system. Then, choose which operating system is the best, and defend why you think that is such.

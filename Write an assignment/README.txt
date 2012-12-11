@@ -1,0 +1,3 @@
+This assignment is relevent to an Intro to Unix course because by learning the pros and the cons, students can decide which operating system is the best and possibly consider using Linux as the primary operating system. Also, having taken this class and done this assignment, students will know exactly why people use use Linux over other operating system.
+
+I feel that the points for this assignment can be split between back to the future assignment. While understanding the history of UNIX/Linux is very important, I think it's equally as important to know and understand the strength of Linux so that the students can know when to turn to using Linux.
